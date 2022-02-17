@@ -17,11 +17,11 @@
     <img src="https://cultofthepartyparrot.com/guests/hd/nyanparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/bluntparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/bobaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/bootlegparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/bouncingparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/guests/hd/partymoogle.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/boomparrot.gif" width="30" height="30"/>
 </div>
 
 # Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
