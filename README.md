@@ -24,7 +24,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/boomparrot.gif" width="30" height="30"/>
 </div>
 
-# Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=8e72dd&size=24&lines=Welcome+to+my+GitHub+Profile!;)](https://git.io/typing-svg)
 
