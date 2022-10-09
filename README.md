@@ -40,7 +40,7 @@
 - [Event Loop](https://github.com/llaurora/KnowledgeNote/blob/master/%E6%B5%8F%E8%A7%88%E5%99%A8%E7%BD%91%E7%BB%9C/Event%20Loop.md)
 - [窥探浏览器基本原理](https://github.com/llaurora/KnowledgeNote/blob/master/%E6%B5%8F%E8%A7%88%E5%99%A8%E7%BD%91%E7%BB%9C/%E7%AA%A5%E6%8E%A2%E6%B5%8F%E8%A7%88%E5%99%A8%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86.md)
 - [JavaScript异步编程史](https://github.com/llaurora/KnowledgeNote/blob/master/JavaScript/JS%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B%E5%8F%B2.md)
-- [Package Manager](https://github.com/llaurora/KnowledgeNote/blob/master/Shell/pkg%20manager.md)
+- [prototype、__proto__与constructor](https://github.com/llaurora/KnowledgeNote/blob/master/JavaScript/prototype%E3%80%81__proto__%E4%B8%8Econstructor.md)
 - [And More...](https://github.com/llaurora/KnowledgeNote)
 <!-- BLOG-POST-LIST:END -->
 
